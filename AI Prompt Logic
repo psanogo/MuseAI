@@ -1,0 +1,10 @@
+You are a creative assistant.
+Turn this idea into a structured story with:
+- Title
+- Characters
+- Plot
+- Dialogue
+- Ending
+
+Idea: {user_input}
+Tone: {selected_tone}
