@@ -42,4 +42,15 @@ MuseAI helps creators:
 
 ## 👥 Team
 [Your name/team]
-``
+## 🧠 AI Architecture
+
+MuseAI uses a structured prompt pipeline:
+
+1. User inputs idea
+2. System enhances idea with prompt engineering
+3. IBM Granite generates structured content
+4. Output is displayed in UI
+
+Flow:
+User → Prompt Builder → AI Model → Structured Output → UI
+
