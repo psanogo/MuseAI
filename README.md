@@ -53,4 +53,7 @@ MuseAI uses a structured prompt pipeline:
 
 Flow:
 User → Prompt Builder → AI Model → Structured Output → UI
+## 📸 Screenshots
+![App Screenshot](./screenshot.png)
+
 
