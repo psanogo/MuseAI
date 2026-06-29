@@ -60,58 +60,28 @@ User → Prompt Builder → AI Model → Structured Output → UI
 🎥 Watch here: https://www.youtube.com/watch?v=mpc9vFE-Tc4
 
 
-💡 MuseAI
-✨ Your AI Creative Co‑Pilot
-https://img.shields.io/github/repo-size/psanogo/MuseAI
-https://img.shields.io/github/stars/psanogo/MuseAI?style=social
-https://img.shields.io/github/forks/psanogo/MuseAI?style=social
-!License
-https://img.shields.io/badge/Built%20With-IBM%20Granite-blue
-https://img.shields.io/badge/status-active-success
+📸 Screenshots
 
-🎥 Live Demo
-👉 Try MuseAI: (Add your deployed link here)
-👉 Watch Demo: (Add Loom / YouTube link here)
-
-  https://via.placeholder.com/800x400.png?text=MuseAI+Demo+Preview
-
-
-💭 What is MuseAI?
-MuseAI is an AI-powered creative partner that transforms a single idea into a polished story, script, or visual — in seconds, not hours.
-It removes friction, eliminates creative blocks, and lets creators focus on what truly matters:
-
-🎨 Imagination over execution
-
-
-⚙️ How It Works
-
-
-
-
-
-
-
-
-
-
-
-
-💡 MuseAI
-✨ Your AI Creative Co‑Pilot
-
-  
-  
-  
-  
-  " />
-  .shields.io/badge/license-MIT-green" />
+  ./screenshot.png
+  ./screenshot.png
 
 
 🎥 Demo
 👉 Watch Demo: https://www.youtube.com/watch?v=mpc9vFE-Tc4
-👉 Live App: (Add deployed link here)
+👉 Live App: (Add your deployed link here)
 
-  x400.png?text=MuseAI+Demo+Preview" alt="MuseAI Demo"/>
+  
+
+
+💡 MuseAI
+✨ Your AI Creative Co‑Pilot
+
+  
+  
+  
+  https://img.shields.io/badge/license-MIT-green
+  
+  
 
 
 💭 What is MuseAI?
@@ -121,24 +91,7 @@ It removes friction, eliminates creative blocks, and lets creators focus on what
 🎨 Imagination over execution
 
 
-🚀 Problem
-Creators struggle to turn ideas into finished content quickly. The process is often:
-
-Slow
-Fragmented
-Dependent on multiple tools
-
-
-💡 Solution
-MuseAI turns a simple idea into complete creative output instantly.
-
-✍️ One idea → full story or script
-⚡ No need for complex tools
-🎯 Clean, structured, ready-to-use content
-
-
 ⚙️ How It Works
-
 Step-by-step
 
 ✍️ User enters a simple idea
@@ -148,59 +101,3 @@ Step-by-step
 🎨 Displayed instantly in the UI
 
 🔄 Users can regenerate, refine tone, or expand content anytime
-
-🧠 AI Approach
-
-IBM Granite for high-quality text generation
-Structured prompt engineering for consistent outputs
-Modular pipeline: idea → expansion → polished content
-
-
-🧠 AI Architecture
-MuseAI uses a structured prompt pipeline:
-
-User inputs idea
-System enhances idea via prompt engineering
-IBM Granite generates structured content
-Output is displayed in UI
-
-Flow:
-User → Prompt Builder → AI Model → Structured Output → UI
-
-🏗 Architecture
-
-Frontend: React
-Backend: Node.js / Python
-AI Engine: IBM Granite + APIs
-
-
-🛠 How AI Was Used
-
-🧠 Text generation for stories and scripts
-🎯 Prompt design to control tone and structure
-⚡ Fast generation pipeline
-🔍 Iterative refinement for better outputs
-
-
-⚡ Features
-
-✍️ Idea → full story generation
-🎬 Script creation
-🎨 Tone customization
-🔄 Instant regeneration
-
-
-🌍 Impact
-MuseAI helps creators:
-
-⏳ Save time
-💡 Overcome creative blocks
-🚀 Produce content faster
-
-
-📸 Screenshots
-
-  ./screenshot.png="App Screenshot" />
-  ./screenshot.png
-
-
