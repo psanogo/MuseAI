@@ -59,3 +59,30 @@ User → Prompt Builder → AI Model → Structured Output → UI
 ## 🔗 Live Demo
 🎥 Watch here: https://www.youtube.com/watch?v=mpc9vFE-Tc4
 
+
+💡 MuseAI
+✨ Your AI Creative Co‑Pilot
+https://img.shields.io/github/repo-size/psanogo/MuseAI
+https://img.shields.io/github/stars/psanogo/MuseAI?style=social
+https://img.shields.io/github/forks/psanogo/MuseAI?style=social
+!License
+https://img.shields.io/badge/Built%20With-IBM%20Granite-blue
+https://img.shields.io/badge/status-active-success
+
+🎥 Live Demo
+👉 Try MuseAI: (Add your deployed link here)
+👉 Watch Demo: (Add Loom / YouTube link here)
+
+  https://via.placeholder.com/800x400.png?text=MuseAI+Demo+Preview
+
+
+💭 What is MuseAI?
+MuseAI is an AI-powered creative partner that transforms a single idea into a polished story, script, or visual — in seconds, not hours.
+It removes friction, eliminates creative blocks, and lets creators focus on what truly matters:
+
+🎨 Imagination over execution
+
+
+⚙️ How It Works
+
+
