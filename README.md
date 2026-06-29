@@ -56,10 +56,6 @@ User → Prompt Builder → AI Model → Structured Output → UI
 ## 📸 Screenshots
 ![App Screenshot](./screenshot.png)
 ![App Screenshot](./screenshot.png)
-## 🎥 Project Demo
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mpc9vFE-Tc4" 
-title="MuseAI Demo" frameborder="0" allowfullscreen></iframe>
-
-
+## 🔗 Live Demo
+🎥 Watch here: https://www.youtube.com/watch?v=mpc9vFE-Tc4
 
