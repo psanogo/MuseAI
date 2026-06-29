@@ -23,14 +23,25 @@ Upgrade:
 Markdown## 🛠 How IBM Granite Was Used- 🧠 Core text generation engine for stories and scripts  - 🎯 Structured prompt design to control tone and format  - ⚡ Rapid content generation pipeline (idea → expansion → output)  - 🔍 Iterative refinement for better creative accuracy  Show more lines
 👉 This shows technical depth + intentional AI use.
 
-📁 Add Setup Instructions (Missing & Important)
-Without this, your project feels incomplete.
-Markdown## 🧪 How to Run Locally### 1. Clone the repo```bashgit clone https://github.com/psanogo/MuseAI.gitcd MuseAIShow more lines
- Install dependencies
+🧪 How to Run Locally
+1. Clone the repository
+Shellgit clone https://github.com/psanogo/MuseAI.gitcd MuseAIShow more lines
+2. Install dependencies
 Shellcd backend && npm installcd ../frontend && npm installShow more lines
- Run the app
-Shell# backendnpm start# frontendnpm startShow more lines
+3. Run the application
+Shell# Start backendcd backendnpm start# Start frontend (in another terminal)cd frontendnpm startShow more lines
 
+👥 Team
+Papa Moussa Sanogo – Founder & Developer
+
+AI architecture & prompt engineering
+Full-stack development
+Product vision
+
+
+💭 Final Thought
+
+“Every great creation begins as a simple idea. MuseAI makes sure it doesn’t stay that way.”
 
 👉 This is essential for **developers + recruiters**.
 
