@@ -24,12 +24,22 @@ Markdown## 🛠 How IBM Granite Was Used- 🧠 Core text generation engine for s
 👉 This shows technical depth + intentional AI use.
 
 🧪 How to Run Locally
-1. Clone the repository
-Shellgit clone https://github.com/psanogo/MuseAI.gitcd MuseAIShow more lines
+git clone https://github.com/psanogo/MuseAI.git
+cd MuseAI
+
+
 2. Install dependencies
-Shellcd backend && npm installcd ../frontend && npm installShow more lines
+cd backend && npm install
+cd ../frontend && npm install
 3. Run the application
 Shell# Start backendcd backendnpm start# Start frontend (in another terminal)cd frontendnpm startShow more lines
+# Start backend
+cd backend
+npm start
+
+# Start frontend (in another terminal)
+cd frontend
+npm start
 
 👥 Team
 Papa Moussa Sanogo – Founder & Developer
